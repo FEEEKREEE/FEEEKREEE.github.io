@@ -1,0 +1,21 @@
+nav {
+  color: #fff;
+  background-color: #4FC3F7;
+  width: 100%;
+  height: 56px;
+  line-height: 56px;
+}
+
+.homexxx{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/f/f1/USAF_F-15C_fires_AIM-7_Sparrow_2.jpg");
+  width: auto;
+  height: 100em;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-top: -2.1em;
+}
+
+.welcomeMSG{
+  font-size: 3em;
+  color: white;
+}
